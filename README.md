@@ -1,4 +1,4 @@
-# NFTMarketPlaceERC1155
+# NFTMarketPlaceERC1155Contract
 
 The ERC-1155 NFT Marketplace Contract is a decentralized application that facilitates the buying and selling of unique digital assets known as Non-Fungible Tokens (NFTs) based on the ERC-1155 standard. NFTs represent ownership of digital items, such as art, collectibles, virtual real estate, and more, and they are indivisible and unique.
 
@@ -14,8 +14,8 @@ The ERC-1155 NFT Marketplace Contract is a decentralized application that facili
 
 1. Clone the repository:
 
-   `git clone` https://github.com/SynysterGate7/NFTMarketPlaceERC1155.git
-   `cd NFTMarketPlaceERC1155`
+   `git clone` https://github.com/SynysterGate7/NFTMarketPlaceERC1155Contract.git
+   `cd NFTMarketPlaceERC1155Contract`
 
 2. Install dependencies:
 
