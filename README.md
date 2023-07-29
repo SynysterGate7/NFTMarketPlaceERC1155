@@ -39,7 +39,7 @@ Modify the `hardhat.config.js` file to specify your desired network configuratio
 
 2. Interact with the contract:
 
-Once the contract is deployed, you can interact with it by calling its functions. For example, sellers can list their ERC-1155 NFTs using the `buyNft` function, while buyers can purchase NFTs using the same function.
+Once the contract is deployed, you can interact with it by calling its functions.
 
 ## Testing
 
