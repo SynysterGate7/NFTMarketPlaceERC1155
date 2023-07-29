@@ -54,5 +54,3 @@ Contributions to the ERC-1155 NFT Marketplace Contract are welcome! If you find 
 The ERC-1155 NFT Marketplace Contract is built using Solidity and Hardhat. We would like to thank the Ethereum community and the developers behind Solidity, Hardhat, and other dependencies for their valuable contributions to the ecosystem.
 
 ---
-
-_(Replace `https://github.com/SynysterGate7/NFTMarketPlaceERC1155.git` with the actual URL of your repository.)_
